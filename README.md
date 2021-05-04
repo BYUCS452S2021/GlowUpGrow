@@ -8,7 +8,7 @@ That is theorized to have enabled technologicla advances with people being able 
 This project is aiming to push human societal growth toward a post scarity future where having (fresh) food is not at risk in situations of financial/societal distress.
 This will allow humanity to move forward away from an existance focused on survival to one aimed at growth and invention.
 
-This project for this class is working little part of that. 
+This project for this class is working on a little part of that. 
 
 For the entire project, peoples'/households' info needs to be stored:
    - Shipping address
