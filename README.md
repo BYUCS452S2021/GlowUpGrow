@@ -44,25 +44,25 @@ For the project, info needs to be stored about all available plants:
        - Hazards, as applicable
        
 For each person/household, the garden's info needs to be stored:
-    - Kits/physical facilities they have
-    - Which plants they have in which plots
-    - For each plant they have:
-        - Age of plant
-        - Soil info in plot (see soil requirements in plant info, above)
-        - Health issues
-        - Harvestable indicator
-    - Maintenance info for automated systems
-        - Servo "health"
-        - Track "health"
-        - Sensor "health"
-        - Light node "health"
-        - Nutrient resource levels
-        - GardenerBot info
-            - Location
-            - Non-completed task queue
-            - Current task info
-            - Completed tasks
-            - Uncompletable tasks
+   - Kits/physical facilities they have
+   - Which plants they have in which plots
+   - For each plant they have:
+       - Age of plant
+       - Soil info in plot (see soil requirements in plant info, above)
+       - Health issues
+       - Harvestable indicator
+   - Maintenance info for automated systems
+       - Servo "health"
+       - Track "health"
+       - Sensor "health"
+       - Light node "health"
+       - Nutrient resource levels
+       - GardenerBot info
+           - Location
+           - Non-completed task queue
+           - Current task info
+           - Completed tasks
+           - Uncompletable tasks
             
 I'm committed to this project longer-term, and am aiming at taking the principle to market within the next couple years.
 I understand that likely isn't the case for y'all, but let me know if you'd be interested in working on the idea past this term!
