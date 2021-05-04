@@ -43,7 +43,7 @@ For the project, info needs to be stored about all available plants:
        - Nutrient profile
        - Hazards, as applicable
        
-For each person/household, the garden's info needs to be stored:
+ For each person/household, the garden's info needs to be stored:
    - Kits/physical facilities they have
    - Which plants they have in which plots
    - For each plant they have:
