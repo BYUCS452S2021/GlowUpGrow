@@ -1,0 +1,3 @@
+[submodule "GlowUpGrow-Server"]
+	path = GlowUpGrow-Server
+	url = https://github.com/greenwaltc/GlowUpGrow-Server.git
