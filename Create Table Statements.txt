@@ -13,7 +13,8 @@ CREATE TABLE IF NOT EXISTS User(
 	City VARCHAR(50) NOT NULL,
 	Street VARCHAR(75) NOT NULL,
 	Apartment VARCHAR(10),
-	Zip VARCHAR(5) NOT NULL
+	Zip VARCHAR(5) NOT NULL,
+	Salt VARCHAR(256) NOT NULL -- For salting and hashing passwords, returned in the login result
 );
 
 CREATE TABLE IF NOT EXISTS AuthToken(
